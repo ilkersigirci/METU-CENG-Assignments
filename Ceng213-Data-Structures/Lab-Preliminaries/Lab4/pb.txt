@@ -1,0 +1,8 @@
+akif	567	1
+
+burak	123	0
+
+kerim	234	2
+
+tugberk	345	0
+

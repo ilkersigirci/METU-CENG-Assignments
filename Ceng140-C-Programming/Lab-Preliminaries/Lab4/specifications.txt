@@ -1,0 +1,7 @@
+- You are not allowed to use array in any question.
+
+- Memory allocation is only allowed in Q2. 
+
+- Your functions will not print anything except printList in Q1.
+
+-- END

@@ -1,0 +1,26 @@
+Testing _VideoShare_01 POINTS 4
+[-]Tested methods: loadUsers + printAllUsers
+DIFFERENCE:
+
+4d3
+< username:e1752476,name:,surname:Semiz,Status:active
+
+GIVEN OUTPUT:
+
+username:e3333333,name:No Surname,surname:,Status:active
+username:e2222222,name:,surname:,Status:active
+username:e1111111,name:No Surname,surname:,Status:active
+username:e1887454,name:Abdullah,surname:Dogan,Status:active
+
+EXPECTED OUTPUT:
+
+username:e3333333,name:No Surname,surname:,Status:active
+username:e2222222,name:,surname:,Status:active
+username:e1111111,name:No Surname,surname:,Status:active
+username:e1752476,name:,surname:Semiz,Status:active
+username:e1887454,name:Abdullah,surname:Dogan,Status:active
+
+output is different
+RESULT:
+
+_VideoShare_01: FAIL

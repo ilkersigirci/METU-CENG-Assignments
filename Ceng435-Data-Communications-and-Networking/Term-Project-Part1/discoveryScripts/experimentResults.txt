@@ -1,0 +1,8 @@
+Average delay between r1 and s  is : 70.81554126739502  ms
+Average delay between r1 and d  is : 109.82277703285217 ms
+Average delay between r1 and r2 is : 199.94185543060303 ms
+Average delay between r2 and s  is : 81.81338739395142  ms
+Average delay between r2 and d  is : 107.82603144645691 ms
+Average delay between r3 and s  is : 0.5499558448791504 ms
+Average delay between r3 and d  is : 0.5536844730377197 ms
+Average delay between r3 and r2 is : 108.83131122589111 ms
