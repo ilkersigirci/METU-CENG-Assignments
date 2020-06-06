@@ -1,0 +1,84 @@
+2bti.pdb
+There are 10 interacting pairs.
+Group 1: LEU(0)-VAL(32)
+Group 1: ILE(1)-GLY(31)
+Group 2: ARG(5)-GLN(27)
+Group 3: VAL(6)-ASN(26)
+Group 4: THR(9)-GLU(43)
+Group 5: ASN(26)-VAL(6)
+Group 6: GLY(31)-ILE(1)
+Group 6: VAL(32)-LEU(0)
+Group 6: VAL(40)-LEU(0)
+Group 7: GLU(43)-THR(9)
+Number of groups = 7
+3r0a.pdb
+There are 5 interacting pairs.
+Group 1: SER(-4)-GLY(117)
+Group 2: CYS(4)-CYS(15)
+Group 3: CYS(15)-CYS(4)
+Group 4: ALA(103)-ALA(103)
+Group 5: GLU(109)-ILE(0)
+Number of groups = 5
+4uap.pdb
+There are 10 interacting pairs.
+Group 1: SER(8)-SER(11)
+Group 1: SER(8)-SER(12)
+Group 1: GLY(9)-SER(12)
+Group 1: THR(57)-SER(12)
+Group 1: ASP(10)-ASP(10)
+Group 1: SER(12)-GLY(9)
+Group 1: SER(11)-SER(8)
+Group 1: SER(12)-SER(8)
+Group 1: SER(12)-THR(57)
+Group 2: GLY(97)-GLN(47)
+Number of groups = 2
+6k62.pdb
+There are 11 interacting pairs.
+Group 1: HIS(30)-HIS(30)
+Group 2: GLY(34)-GLY(34)
+Group 3: ALA(38)-GLY(41)
+Group 3: GLY(41)-ALA(38)
+Group 3: GLY(41)-GLY(41)
+Group 3: GLY(41)-ALA(42)
+Group 3: GLY(41)-ARG(51)
+Group 3: ALA(42)-GLY(41)
+Group 3: ARG(51)-GLY(41)
+Group 3: TYR(55)-ILE(40)
+Group 3: ILE(40)-TYR(55)
+Number of groups = 3
+6k97.pdb
+There are 16 interacting pairs.
+Group 1: GLY(7)-ARG(34)
+Group 1: LEU(8)-ALA(19)
+Group 1: GLY(9)-THR(32)
+Group 1: GLY(9)-GLY(33)
+Group 1: GLY(9)-ARG(34)
+Group 1: GLY(9)-LEU(93)
+Group 2: ALA(19)-LEU(8)
+Group 2: THR(32)-GLY(9)
+Group 2: GLY(33)-GLY(9)
+Group 2: ARG(34)-GLY(7)
+Group 2: ARG(34)-GLY(9)
+Group 2: LEU(93)-GLY(9)
+Group 3: PRO(25)-ALA(97)
+Group 3: PRO(25)-THR(110)
+Group 4: ALA(97)-PRO(25)
+Group 4: THR(110)-PRO(25)
+Number of groups = 4
+6lac.pdb
+There are 14 interacting pairs.
+Group 1: GLY(36)-ALA(47)
+Group 2: ALA(47)-GLY(36)
+Group 3: ARG(54)-GLU(52)
+Group 3: ARG(54)-ARG(54)
+Group 4: ASP(63)-LEU(64)
+Group 5: LEU(64)-ASP(63)
+Group 6: SER(65)-SER(65)
+Group 7: ALA(68)-GLN(102)
+Group 8: ASP(75)-GLY(100)
+Group 8: SER(76)-ASN(98)
+Group 8: SER(76)-GLY(100)
+Group 9: GLY(100)-ASP(75)
+Group 9: GLY(100)-SER(76)
+Group 10: GLN(102)-ALA(68)
+Number of groups = 10
