@@ -1,0 +1,11 @@
+.vscode/
+
+.ipynb_checkpoints/
+
+data/
+
+
+# python related
+__pycache__/
+.python-version
+__pypackages__/
